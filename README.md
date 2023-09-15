@@ -1,6 +1,8 @@
-# Crime Rates in Malaysia in 2021
+# Cyber Crime Rates in Malaysia in 2017 and 2019
 
 ## Introduction
-Eight specific crime statistics, including those related to the Crime Index, drugs, corruption, the environment, traffic offences, cybercrime, maritime crime, and correctional facilities, are included in the Crime Statistics, Malaysia, 2021 booklet. In the 2021 publication, additional statistics include cybercrime and traffic violations. Based on administrative records acquired from multiple organisations, these recently revealed figures.
+Cybercrime in Malaysia has emerged as a serious and developing menace in the digital era. With the fast development of internet access and technology use, the country has seen a surge in many types of cyber dangers, such as online fraud, hacking, identity theft, and cyberbullying. Malaysian authorities have taken attempts to address these difficulties through legislative measures and law enforcement initiatives, but cybercriminal activities continue to be a major concern, posing hazards to individuals, organisations, and the nation's broader cybersecurity environment.
+
+
 
 
