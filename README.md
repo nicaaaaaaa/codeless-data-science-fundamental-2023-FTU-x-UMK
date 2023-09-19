@@ -125,6 +125,31 @@ Scatter Plot nodes are used for data visualisation. They enable you to generate 
 
 ### Scatter Matrix (local)
 
+![result scatter matrix](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/57520282-df86-4c5f-8d7f-50b598c48aab)
+
+### Decision Tree
+
+![result decision tree](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/f12ba146-3e90-4c96-a6c4-fae797d6743f)
+
+### Scatter Plot
+
+![Screenshot (85)](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/6df73df9-b19c-44fc-b3c4-e56cf19aa314)
+
+### Naive Bayes
+
+![naive bayes result](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/8c9a2428-fda8-469d-84f5-a06beb7c1fc2)
+
+### Scorer
+
+![scorer result](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/7959b5dc-b505-407d-9085-bc2ccbfa2b32)
+
+## Literature Review
+
+
+
+
+
+
 
 
 
