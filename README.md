@@ -145,6 +145,28 @@ Scatter Plot nodes are used for data visualisation. They enable you to generate 
 
 ## Literature Review
 
+Because of the fast advancement of internet technology and the digital sphere, unscrupulous and irresponsible persons now have opportunity to take advantage of online users. Cybercrime has affected a sizable proportion of the worldwide population. The CEO of CyberSecurity Malaysia, Dr. Amirudin Abdul Wahab, emphasised that combating cybercrime is getting increasingly challenging due to the exponential increase of networked devices. Gartner predicts that by 2020, there will be around 20.4 billion Internet of Things (IoT) linked devices (Khizar, 2018).
+
+There are a lot of cause of cybercrimes that happen in Malaysia. The challenge in safeguarding a computer against unauthorized access lies in the multitude of ways a breach can occur due to the complex technology involved. Unauthorized individuals can acquire access codes, retina scans, digital voice recordings, and similar elements, which can deceive biometric systems and circumvent firewalls commonly employed to breach various security systems ( Khizar, 2018). The computer possesses a distinctive ability to store a significant amount of data in a compact space. This feature greatly facilitates the potential for individuals to illicitly acquire information from alternative storage sources and employ it for personal gain (Khizar, 2018).
+
+One of the most effective methods to deter these criminals and safeguard sensitive information involves employing robust security measures that utilize an integrated set of software and hardware to protect any data accessed via the Internet. Furthermore, in order to combat cybercrime efficiently, it is essential to establish comprehensive partnerships between law enforcement agencies, the information technology industry, data security organizations, internet companies, and financial institutions. The optimal approach is to implement solutions provided by Cross-Domain Solutions. This allows organizations to utilize a unified system comprising software and hardware that secures both manual and automated data transactions and access occurring between different security classification levels. This enables seamless sharing and access to information within a specific security classification but cannot be intercepted by or knowingly exposed to users who are not part of the security classification. This ensures the security of the network and the systems utilizing it (Khizar, 2018).
+
+## Conclusion 
+Finally, the fast rise of cybercrime in our linked digital world poses a serious threat to individuals, organisations, and governments. A multifaceted approach is required to properly address this threat. This includes improving cybersecurity defences through advanced protocols and regular monitoring, establishing public-private collaborations, and keeping ahead of thieves by modifying security measures. Continuous cybersecurity education is crucial. To summarise, combating cybercrime necessitates attention, teamwork, and adaptation in order to protect sensitive data, key infrastructure, and the overall security of our digital environment.
+
+## References
+
+Fan, C., Chen, M., Wang, X., Wang, J., & Hang, B. (2021). A Review on Data Preprocessing Techniques Towards Efficient and Reliable Knowledge Discovery From Building Operational Data. *Frontiers in Energy Research*, *9*, 652801. doi:10.3389/fenrg.2021.652801.
+
+Sadiku, M. N. O., Shadare, A. E., Musa, S. M., Akujuobi, C., & Perry, R. G. (2016). Data Visualization.
+
+Wright, C. (2008). *The IT Regulatory and Standards Compliance Handbook.*
+
+Komorowski, M., Marshall, D. C., Salciccioli, J. D., & Crutain, Y. (2016). Exploratory Data Analysis. In *Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning* (pp. 203-211). doi:10.1007/978-3-319-43742-2_15.
+
+Zollanvari, A. (2023). Model Evaluation and Selection. In *Advances in Computer Vision and Pattern Recognition* (pp. 125-142). doi:10.1007/978-3-031-33342-2_9.
+
+Hussain, M. K. F. (2018). Cyber Crimes in Malaysia.
 
 
 
