@@ -1,4 +1,4 @@
-# Cyber Crime Cases in Malaysia 
+ # Cyber Crime Cases in Malaysia 
 
 ## Abstract
 Cybercrime has emerged as a major global problem, posing threats to individuals, organisations, and the nation's cybersecurity. This summary presents an overview of cybercrime in Malaysia, including cyber harassment, content-related offences, intrusion attempts, fraud, malicious code, vulnerability reports, denial of service, and spam. The research investigates the incidence, trends, strategies, and consequences of various cybercrimes, emphasising emerging tactics utilised by Malaysian cybercriminals. Increased cyber harassment events, sophisticated attack attempts on important infrastructure, and economic losses due to cyber fraud are among the key findings. 
@@ -46,6 +46,7 @@ The Colour Manager node is often used for visualisations. It lets you to apply c
 These nodes are used to generate pie or donut charts, which are useful for visualising the distribution of categorical data or displaying the proportion of distinct categories within a dataset.
 
 ![pie chart](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/6eeff48f-6b1f-4195-a0ed-4b46792a19a5)
+
 
 #### 5. Partitioning 
 Partitioning nodes divide your dataset into training and testing portions. This is essential for training and assessing your machine learning model. It guarantees that you have a different dataset to test the performance of the model. In this workflow, the nodes divide 70% for training and 30% for testing.
@@ -115,6 +116,10 @@ Scatter Plot nodes are used for data visualisation. They enable you to generate 
 ### Pie/Donut Chart
 
 ![Screenshot (80)](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/d01307a8-21d0-4947-87d0-b5793c7c8068)
+
+#### Line Plot
+
+![Screenshot (88)](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/595ed7a6-86e5-4901-b35e-135a7c138d30)
 
 ### Bar Chart 
 
