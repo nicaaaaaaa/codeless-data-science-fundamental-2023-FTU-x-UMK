@@ -1,4 +1,4 @@
- # Cyber Crime Cases in Malaysia 
+ # Cyber Crime Cases in Malaysia in 2020
 
 ## Abstract
 Cybercrime has emerged as a major global problem, posing threats to individuals, organisations, and the nation's cybersecurity. This summary presents an overview of cybercrime in Malaysia, including cyber harassment, content-related offences, intrusion attempts, fraud, malicious code, vulnerability reports, denial of service, and spam. The research investigates the incidence, trends, strategies, and consequences of various cybercrimes, emphasising emerging tactics utilised by Malaysian cybercriminals. Increased cyber harassment events, sophisticated attack attempts on important infrastructure, and economic losses due to cyber fraud are among the key findings. 
