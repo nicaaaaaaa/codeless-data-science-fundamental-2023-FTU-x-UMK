@@ -87,6 +87,11 @@ Scatter Plot nodes are used for data visualisation. They enable you to generate 
 
 ![scatter plot](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/945790a8-e1f3-4d6e-8102-cfa0dde2887e)
 
+## Workflows
+
+![workflow](https://github.com/nicaaaaaaa/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93868117/8e302af6-05c3-42a0-8840-82dc8b53b993)
+
+
 ## Results
 
 ### Access Data
